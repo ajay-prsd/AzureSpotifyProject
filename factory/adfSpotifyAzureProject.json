@@ -1,0 +1,9 @@
+{
+	"name": "adfSpotifyAzureProject",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e520f5ae-2d39-4917-96be-19c847b2be4c",
+		"tenantId": "015fc04a-e86e-4ced-bb29-8350b179a012"
+	}
+}
